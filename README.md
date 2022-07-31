@@ -1,4 +1,6 @@
 # Saturday
 **Hello**
-14:35 30.07.2022
-14:35 31.07.2022
+30.07.2022 19:49
+My name is Erna
+Trying to learn git
+I want to learn
