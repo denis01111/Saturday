@@ -32,4 +32,4 @@
 
 В окне на Github поевляется возможность отправить pull request.
 
-## Итог ull request
+## Итог ull request от Ирины Малютиной
